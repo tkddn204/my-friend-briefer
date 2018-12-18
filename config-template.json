@@ -1,0 +1,6 @@
+{
+  "slack_token": "xoxb-bottokentohere",
+  "slack_client_id": "client.id",
+  "slack_client_secret": "clientsecret",
+  "slack_verification": "verification"
+}
