@@ -1,4 +1,4 @@
-﻿# my-friend-briefer-ssafy-slack
+﻿# my-friend-briefer
 
 **My friend, Briefer(내 친구 브리퍼)**는 아침 9시마다 오늘의 날씨, 뉴스, 일정을 브리핑해주는 슬랙 챗봇입니다!
 
