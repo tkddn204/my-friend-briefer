@@ -13,3 +13,4 @@ else:
     ROOT_DIR = parent_dir_name
 
 CONFIG_FILE = path.join(ROOT_DIR, 'config.json')
+DATA_FILE = path.join(ROOT_DIR, 'data.json')
