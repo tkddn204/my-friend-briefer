@@ -6,6 +6,7 @@
   <img src="https://user-images.githubusercontent.com/6284140/50320829-7d859480-0511-11e9-8b9e-8f9e3d6fbc1b.png" width="500">
 </p>
 
+
 ## how to install
 
 먼저, 라이브러리를 설치합니다.
@@ -34,9 +35,9 @@ python main.py
 ## collaborators
 
 - Han SangWoo([github](https://www.github.com/tkddn204))
-- Park Shin Jong()
-- Yoon Hyun Gyu ()
+- Park Shin Jong
+- Yoon Hyun Gyu
 
 
 ## License
-[MIT]()
+[MIT](https://github.com/tkddn204/my-friend-briefer/blob/master/LICENSE)
