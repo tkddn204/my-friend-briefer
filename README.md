@@ -35,8 +35,8 @@ python main.py
 ## collaborators
 
 - Han SangWoo([github](https://www.github.com/tkddn204))
-- Park Shin Jong
-- Yoon Hyun Gyu
+- Park Shin Jong([github](https://github.com/ShinJongPark))
+- Yoon Hyun Gyu([github](https://github.com/blackstar92))
 
 
 ## License
